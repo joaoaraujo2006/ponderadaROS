@@ -96,6 +96,6 @@ A tartaruga começará a percorrer o contorno extraído da imagem, desenhando-o 
 
 O vídeo abaixo mostra a tartaruga do `turtlesim` percorrendo o contorno extraído da imagem de entrada:
 
-[![Vídeo](youtube.com/watch?v=B_S2ougmi9M&feature=youtu.be)](youtube.com/watch?v=B_S2ougmi9M&feature=youtu.be)
+[![Vídeo de demonstração](https://img.youtube.com/vi/B_S2ougmi9M/0.jpg)](https://youtu.be/B_S2ougmi9M)
 
 
